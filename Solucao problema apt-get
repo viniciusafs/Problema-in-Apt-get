@@ -1,0 +1,2 @@
+sudo dpkg --remove --force-remove-reinstreq NAME
+# onde [NAME] deve conter o nome d pacote com problema.
